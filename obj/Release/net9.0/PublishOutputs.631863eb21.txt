@@ -1,0 +1,13 @@
+/Users/amal.alhammadi/ZscalerAppMVC/bin/publish/ZscalerAppMVC
+/Users/amal.alhammadi/ZscalerAppMVC/bin/publish/appsettings.Development.json
+/Users/amal.alhammadi/ZscalerAppMVC/bin/publish/appsettings.json
+/Users/amal.alhammadi/ZscalerAppMVC/bin/publish/ZscalerAppMVC.dll
+/Users/amal.alhammadi/ZscalerAppMVC/bin/publish/ZscalerAppMVC.deps.json
+/Users/amal.alhammadi/ZscalerAppMVC/bin/publish/ZscalerAppMVC.runtimeconfig.json
+/Users/amal.alhammadi/ZscalerAppMVC/bin/publish/ZscalerAppMVC.pdb
+/Users/amal.alhammadi/ZscalerAppMVC/bin/publish/Azure.Core.dll
+/Users/amal.alhammadi/ZscalerAppMVC/bin/publish/Azure.Monitor.Query.dll
+/Users/amal.alhammadi/ZscalerAppMVC/bin/publish/HtmlAgilityPack.dll
+/Users/amal.alhammadi/ZscalerAppMVC/bin/publish/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/amal.alhammadi/ZscalerAppMVC/bin/publish/System.ClientModel.dll
+/Users/amal.alhammadi/ZscalerAppMVC/bin/publish/System.Memory.Data.dll
