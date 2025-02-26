@@ -25,4 +25,4 @@ ZscalerAppMVC is a web application built using the ASP.NET Core MVC framework. T
    git clone https://github.com/Securrency/ZscalerAppMVC.git
    
 Updated on 26 Feb 2025. 
-By: Amal Alhammadi 
+By: Amal Alhammadi ..
