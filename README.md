@@ -10,6 +10,7 @@ ZscalerAppMVC is a web application built using the ASP.NET Core MVC framework. T
 - Display IP address, Zscaler hostname, and location on the web interface.
 - Logging for debugging and monitoring purposes.
 - Use YubiKey to commit changes.
+- n/a
 
 ## Technologies Used
 
