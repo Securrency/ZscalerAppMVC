@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZscalerAppMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+682310b5992e6316d12ff49753d15000b1bb14bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2a20dd00d6252ad219b2643240ab0cfd4ec5382")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZscalerAppMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZscalerAppMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
