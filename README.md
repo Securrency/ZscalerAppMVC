@@ -12,6 +12,7 @@ ZscalerAppMVC is a web application built using the ASP.NET Core MVC framework. T
 - Use YubiKey to commit changes.
 
 
+
 ## Technologies Used
 
 - ASP.NET Core MVC
@@ -27,4 +28,5 @@ ZscalerAppMVC is a web application built using the ASP.NET Core MVC framework. T
    git clone https://github.com/Securrency/ZscalerAppMVC.git
    
 Updated on 27 Feb 2025. 
-By: Amal Alhammadi ..
+##
+By: Amal Alhammadi 
