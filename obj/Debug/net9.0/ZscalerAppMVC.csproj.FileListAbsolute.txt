@@ -103,3 +103,4 @@
 /Users/amal.alhammadi/ZscalerAppMVC/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/amal.alhammadi/ZscalerAppMVC/bin/Debug/net9.0/System.ClientModel.dll
 /Users/amal.alhammadi/ZscalerAppMVC/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/amal.alhammadi/ZscalerAppMVC/obj/Debug/net9.0/ZscalerAppMVC.sourcelink.json
