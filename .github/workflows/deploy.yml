@@ -7,7 +7,7 @@ on:
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
     - name: Checkout code
@@ -20,11 +20,9 @@ jobs:
 
     - name: Install dependencies
       run: npm install
-      working-directory: .  # Changed to root directory
 
     - name: Build project
       run: npm run build
-      working-directory: .  # Changed to root directory
 
     - name: Deploy to Azure Web App
       uses: azure/webapps-deploy@v2
