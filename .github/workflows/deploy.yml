@@ -20,13 +20,15 @@ jobs:
 
     - name: Install dependencies
       run: npm install
+      working-directory: ./ZscalerAppMVC  # Update this path if necessary
 
     - name: Build project
       run: npm run build
+      working-directory: ./ZscalerAppMVC  # Update this path if necessary
 
     - name: Deploy to Azure Web App
       uses: azure/webapps-deploy@v2
       with:
         app-name: 'amal-api'  # Your Azure App Service name
-        slot-name: 'production'  # Deploying directly to production
         publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+      working-directory: ./ZscalerAppMVC  # Update this path if necessary
